@@ -10,7 +10,7 @@ This specific repository or directory is no longer actively maintained and serve
 
 Please visit the main repository to access the latest code, prompt engineering frameworks, and advanced implementations (such as RAG and MoE):
 
-[Click here to go to the Main Repository](https://github.com/Rohan-134v/PES2UG23CS489_GenAI)
+[Click here to go to the Main Repository](https://github.com/Rohan-134v/PES2UG23CS489-GenAI)
 
 *(Make sure to replace the link above with the actual URL of your main repository.)*
 
